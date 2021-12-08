@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HonzaHalik, I'm 15 y.o.
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning angular, html, css, typescript
-- 💞️ I’m looking to collaborate on begginner grade web projects
+- 👀 I’m interested in AI and machine learning
+- 🌱 I'm currently going through the online Harward university CS50 AI course
+- 💞️ I’m looking to collaborate on begginner grade python projects
 - 📫 How to reach me: You can reach me via my email(halik.honza@gmail.com)
 ..
 <!---
